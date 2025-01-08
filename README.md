@@ -1,0 +1,1 @@
+this hospital management system is built with express and node.js
